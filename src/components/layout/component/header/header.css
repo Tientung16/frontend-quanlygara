@@ -1,0 +1,56 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html {
+    font-size: 62.5%;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.6rem;
+    line-height: 1.5;
+    text-rendering: optimizeSpeed;
+}
+.wrapper {
+    height: 60px; 
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.inner{
+    height: 100%;
+    width: 1020px;
+    background-color: #ccc;
+} */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  html {
+    font-size: 62.5%;
+  }
+  body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.6rem;
+    line-height: 1.5;
+    text-rendering: optimizeSpeed;
+    background-color: #fff; /* Màu nền trắng */
+  }
+  .wrapper {
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    background-color: #fff;
+  }
+
+  
+  
+  
+

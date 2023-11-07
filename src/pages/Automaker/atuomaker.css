@@ -1,0 +1,26 @@
+.btn-green {
+    background: #52c41a !important;
+    color: #f5f5f5 !important;
+    border: none !important;
+}
+
+.btn-edit{
+    background: #1890ff !important;
+    color: #f5f5f5 !important;
+    border: none !important;
+}
+
+.btn-delete {
+    background: #f5222d !important;
+    color: #f5f5f5 !important;
+    border: none !important;
+}
+
+#notification {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: #ddd;
+    padding: 10px;
+    display: none;
+  }
